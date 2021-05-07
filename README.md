@@ -19,6 +19,6 @@ Screenshots of the functioning web application available within the repository.
 ![CPSC 471 Final Report Group 16_Page_14](https://user-images.githubusercontent.com/72106652/117516737-2b653280-af57-11eb-8d50-1d5b2f9ae657.png)
 ![CPSC 471 Final Report Group 16_Page_15](https://user-images.githubusercontent.com/72106652/117516738-2bfdc900-af57-11eb-8c50-c7576c7914e9.png)
 ![CPSC 471 Final Report Group 16_Page_16](https://user-images.githubusercontent.com/72106652/117516740-2bfdc900-af57-11eb-8ece-9c8af86c68cc.png)
-![CPSC 471 Final Report Group 16_Page_17](https://user-images.githubusercontent.com/72106652/117516741-2c965f80-af57-11eb-914c-60876e14033b.png)
+
 
 
